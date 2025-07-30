@@ -1,9 +1,0 @@
-<resources>
-    <style name="Theme.VillaMasterAI" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Tu peux personnaliser les couleurs ici -->
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
-        <item name="colorOnPrimary">@color/white</item>
-        <item name="colorSecondary">@color/teal_200</item>
-    </style>
-</resources>
